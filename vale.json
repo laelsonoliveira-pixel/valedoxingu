@@ -1,0 +1,28 @@
+{
+  "radio": {
+    "nome": "Rádio Vale do Xingu FM",
+    "frequencia": "87.9 FM",
+    "cidade": "Gaúcha do Norte - MT",
+    "stream_url": "https://server3.webradios.com.br:19426/9426",
+    "site": "https://www.fmvaledoxingu.com.br",
+    "facebook": "https://www.facebook.com/ValeDoXingu87fm/",
+    "instagram": "https://www.instagram.com/radiovaledoxingugnt/",
+    "whatsapp": "https://api.whatsapp.com/send?text=Rádio Vale Do Xingu FM 87,9",
+    "telefone": "(66) 99265-6008",
+    "email": "radiovaledoxingu@hotmail.com"
+  },
+  "locutor": {
+    "nome": "AO VIVO",
+    "programa": "Programação Musical"
+  },
+  "programacao": [
+    {
+      "hora": "05:00",
+      "programa": "Manhã Sertaneja"
+    },
+    {
+      "hora": "12:00",
+      "programa": "Top Hits"
+    }
+  ]
+}
