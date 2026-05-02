@@ -24,39 +24,39 @@
       "programa": "Automatizado",
       "dia": "Segunda a Sexta",
       "hora_inicio": "00:00",
-      "hora_fim": "05:00",
+      "hora_fim": "04:59",
       "locutor": {
         "nome": "Automático",
         "foto": "https://i.imgur.com/placeholder.png"
       }
     },
     {
-      "programa": "Raízes do Sertão",
+      "programa": "Amanhecer Sertanejo",
       "dia": "Segunda a Sexta",
       "hora_inicio": "05:00",
-      "hora_fim": "08:00",
+      "hora_fim": "06:59",
       "locutor": {
-        "nome": "A definir",
+        "nome": "Ivo Loss",
         "foto": "https://i.imgur.com/placeholder.png"
       }
     },
     {
-      "programa": "Manhã 87",
+      "programa": "Automático",
       "dia": "Segunda a Sexta",
       "hora_inicio": "08:00",
-      "hora_fim": "11:00",
+      "hora_fim": "10:20",
       "locutor": {
-        "nome": "A definir",
+        "nome": "Automático",
         "foto": "https://i.imgur.com/placeholder.png"
       }
     },
     {
-      "programa": "Esporte da Tupi",
+      "programa": "Super Show",
       "dia": "Segunda a Sexta",
-      "hora_inicio": "11:00",
-      "hora_fim": "12:00",
+      "hora_inicio": "10:30",
+      "hora_fim": "11:59",
       "locutor": {
-        "nome": "Equipe Esportiva",
+        "nome": "Ivo Loss",
         "foto": "https://i.imgur.com/placeholder.png"
       }
     },
@@ -64,37 +64,27 @@
       "programa": "Automatizado",
       "dia": "Segunda a Sexta",
       "hora_inicio": "12:00",
-      "hora_fim": "14:00",
+      "hora_fim": "13:14",
       "locutor": {
         "nome": "Automático",
         "foto": "https://i.imgur.com/placeholder.png"
       }
     },
     {
-      "programa": "Ligou, Pediu, Tocou",
+      "programa": "Conexão Cidade",
       "dia": "Segunda a Sexta",
-      "hora_inicio": "14:00",
-      "hora_fim": "16:00",
+      "hora_inicio": "13:15",
+      "hora_fim": "15:59",
       "locutor": {
-        "nome": "A definir",
+        "nome": "Sawan",
         "foto": "https://i.imgur.com/placeholder.png"
       }
     },
     {
-      "programa": "Tarde Sertaneja",
+      "programa": "Automático",
       "dia": "Segunda a Sexta",
       "hora_inicio": "16:00",
-      "hora_fim": "18:00",
-      "locutor": {
-        "nome": "Talis Silva",
-        "foto": "https://i.imgur.com/placeholder.png"
-      }
-    },
-    {
-      "programa": "Automatizado",
-      "dia": "Segunda a Sexta",
-      "hora_inicio": "18:00",
-      "hora_fim": "19:00",
+      "hora_fim": "18:59",
       "locutor": {
         "nome": "Automático",
         "foto": "https://i.imgur.com/placeholder.png"
@@ -104,44 +94,34 @@
       "programa": "Voz do Brasil",
       "dia": "Segunda a Sexta",
       "hora_inicio": "19:00",
-      "hora_fim": "20:00",
+      "hora_fim": "19:59",
       "locutor": {
         "nome": "Programa Nacional",
         "foto": "https://i.imgur.com/placeholder.png"
       }
     },
     {
-      "programa": "Saudades",
+      "programa": "Automatizado",
       "dia": "Segunda a Sexta",
       "hora_inicio": "20:00",
       "hora_fim": "23:59",
-      "locutor": {
-        "nome": "A definir",
-        "foto": "https://i.imgur.com/placeholder.png"
-      }
-    },
-
-    {
-      "programa": "Automatizado",
-      "dia": "Sábado",
-      "hora_inicio": "00:00",
-      "hora_fim": "10:00",
       "locutor": {
         "nome": "Automático",
         "foto": "https://i.imgur.com/placeholder.png"
       }
     },
+    
     {
-      "programa": "Papo Quente",
+      "programa": "Automatizado",
       "dia": "Sábado",
-      "hora_inicio": "10:00",
-      "hora_fim": "13:00",
+      "hora_inicio": "00:00",
+      "hora_fim": "12:59",
       "locutor": {
-        "nome": "Osmar Lopes / Uanderson Oliveira",
+        "nome": "Automático",
         "foto": "https://i.imgur.com/placeholder.png"
       }
     },
-    {
+     {
       "programa": "Automatizado",
       "dia": "Sábado",
       "hora_inicio": "13:00",
@@ -156,22 +136,13 @@
       "programa": "Automatizado",
       "dia": "Domingo",
       "hora_inicio": "00:00",
-      "hora_fim": "08:00",
+      "hora_fim": "11:59",
       "locutor": {
         "nome": "Automático",
         "foto": "https://i.imgur.com/placeholder.png"
       }
     },
-    {
-      "programa": "Chora Viola",
-      "dia": "Domingo",
-      "hora_inicio": "08:00",
-      "hora_fim": "12:00",
-      "locutor": {
-        "nome": "A definir",
-        "foto": "https://i.imgur.com/placeholder.png"
-      }
-    },
+    
     {
       "programa": "Automatizado",
       "dia": "Domingo",
